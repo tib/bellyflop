@@ -1,0 +1,9 @@
+{
+  "name": "Belly Flop - The Landing Game",
+  "short_name": "Belly Flop",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#101b2d",
+  "theme_color": "#101b2d"
+}
